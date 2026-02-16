@@ -1,0 +1,34 @@
+# ============================================
+# GoSmart Tools – Funding Configuration
+# Professional Sponsorship Setup (Dummy Data)
+# ============================================
+
+github: [gosmartlabs, gosmarttools]
+
+patreon: gosmartlabs
+
+open_collective: gosmart-tools
+
+ko_fi: gosmartlabs
+
+tidelift: npm/gosmart-tools
+
+community_bridge: gosmart-tools-foundation
+
+liberapay: gosmartlabs
+
+issuehunt: gosmarttools
+
+lfx_crowdfunding: gosmart-tools
+
+polar: gosmartlabs
+
+buy_me_a_coffee: gosmartlabs
+
+thanks_dev: gosmartlabs
+
+custom:
+  - "https://gosmarttools.com/sponsor"
+  - "https://gosmarttools.com/enterprise"
+  - "https://gosmarttools.com/white-label"
+  - "https://gosmarttools.com/donate"
