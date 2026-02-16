@@ -1,6 +1,6 @@
 # 🚀 Hi, We’re GoSmart Labs 👋
 
-![GoSmart Banner](https://via.placeholder.com/1200x300/0f172a/ffffff?text=GoSmart+Tools+Premium+Edition)
+![GoSmart Banner](https://i.imgur.com/sYWkw1Z.png)
 
 ## 🏢 About GoSmart
 
